@@ -1,11 +1,13 @@
-Tracks App React Native
+## Tracks App React Native
 An app tracks and records a user's movement. The user is able to save their track joruney recoding and view it in their tracks list.
 
 ## This app features:
 - JSON Web Token Authentication 
 - AsyncStorage 
 - react-native-maps
-- Node Express API 
+- MongoDB (Docker Container)
+- Express API
+- Axios
 - ngrok tunnel to access local node server
  
 ## Installing
